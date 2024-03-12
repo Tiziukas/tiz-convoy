@@ -17,10 +17,8 @@ Config.PoliceRequired = 0
 Config.PoliceJob = 'police'
 
 Config.JobNames = { -- Jobs that are allowed to start the Convoy
-    'gauja1',
-    'gauja2',
-    'gauja3',
-    'gauja4',
+    'gang1',
+    'gang2'
 }
 
 Config.CDDispatch = true
